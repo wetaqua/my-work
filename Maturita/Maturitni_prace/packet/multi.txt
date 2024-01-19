@@ -1,0 +1,1 @@
+multilayer switch - nastaveni viz. video - přístup do internetu (switchport trunk nat vlan 10,20,1)
