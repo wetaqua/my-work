@@ -47,6 +47,7 @@
     <Compile Include="CircleCollider.cs" />
     <Compile Include="Collider.cs" />
     <Compile Include="CollisionDetection.cs" />
+    <Compile Include="debilmaturita.cs" />
     <Compile Include="GameObject.cs" />
     <Compile Include="IDrawable.cs" />
     <Compile Include="Image.cs" />

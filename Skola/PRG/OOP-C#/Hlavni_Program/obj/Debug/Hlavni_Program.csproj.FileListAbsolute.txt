@@ -18,3 +18,10 @@ C:\Users\fexfe\Documents\GIT\PRG\OOP-C#\Hlavni_Program\obj\Debug\Hlavni_Program.
 C:\Users\fexfe\Documents\GIT\PRG\OOP-C#\Hlavni_Program\obj\Debug\Hlavni_Program.csproj.CoreCompileInputs.cache
 C:\Users\fexfe\Documents\GIT\PRG\OOP-C#\Hlavni_Program\obj\Debug\Hlavni_Program.exe
 C:\Users\fexfe\Documents\GIT\PRG\OOP-C#\Hlavni_Program\obj\Debug\Hlavni_Program.pdb
+C:\Users\fexfe\Documents\my-work\Skola\PRG\OOP-C#\Hlavni_Program\bin\Debug\Hlavni_Program.exe.config
+C:\Users\fexfe\Documents\my-work\Skola\PRG\OOP-C#\Hlavni_Program\bin\Debug\Hlavni_Program.exe
+C:\Users\fexfe\Documents\my-work\Skola\PRG\OOP-C#\Hlavni_Program\bin\Debug\Hlavni_Program.pdb
+C:\Users\fexfe\Documents\my-work\Skola\PRG\OOP-C#\Hlavni_Program\obj\Debug\Hlavni_Program.csproj.AssemblyReference.cache
+C:\Users\fexfe\Documents\my-work\Skola\PRG\OOP-C#\Hlavni_Program\obj\Debug\Hlavni_Program.csproj.CoreCompileInputs.cache
+C:\Users\fexfe\Documents\my-work\Skola\PRG\OOP-C#\Hlavni_Program\obj\Debug\Hlavni_Program.exe
+C:\Users\fexfe\Documents\my-work\Skola\PRG\OOP-C#\Hlavni_Program\obj\Debug\Hlavni_Program.pdb
