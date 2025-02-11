@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{209C462A-CB0B-44E5-BE3C-7D03F3A80374}|Hlavni_Program\\Hlavni_Program.csproj|C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\hlavni_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209C462A-CB0B-44E5-BE3C-7D03F3A80374}|Hlavni_Program\\Hlavni_Program.csproj|solutionrelative:hlavni_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209C462A-CB0B-44E5-BE3C-7D03F3A80374}|Hlavni_Program\\Hlavni_Program.csproj|C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\hlavni_program\\cactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209C462A-CB0B-44E5-BE3C-7D03F3A80374}|Hlavni_Program\\Hlavni_Program.csproj|solutionrelative:hlavni_program\\cactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209C462A-CB0B-44E5-BE3C-7D03F3A80374}|Hlavni_Program\\Hlavni_Program.csproj|c:\\users\\uzivatel\\documents\\github\\my-work\\skola\\prg\\oop-c#\\hlavni_program\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209C462A-CB0B-44E5-BE3C-7D03F3A80374}|Hlavni_Program\\Hlavni_Program.csproj|solutionrelative:hlavni_program\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209C462A-CB0B-44E5-BE3C-7D03F3A80374}|Hlavni_Program\\Hlavni_Program.csproj|C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\hlavni_program\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209C462A-CB0B-44E5-BE3C-7D03F3A80374}|Hlavni_Program\\Hlavni_Program.csproj|solutionrelative:hlavni_program\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Meteor.cs",
+              "DocumentMoniker": "C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\Hlavni_Program\\Meteor.cs",
+              "RelativeDocumentMoniker": "Hlavni_Program\\Meteor.cs",
+              "ToolTip": "C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\Hlavni_Program\\Meteor.cs",
+              "RelativeToolTip": "Hlavni_Program\\Meteor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:44:40.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\Hlavni_Program\\Program.cs",
+              "RelativeDocumentMoniker": "Hlavni_Program\\Program.cs",
+              "ToolTip": "C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\Hlavni_Program\\Program.cs",
+              "RelativeToolTip": "Hlavni_Program\\Program.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:40:38.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cactus.cs",
+              "DocumentMoniker": "C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\Hlavni_Program\\Cactus.cs",
+              "RelativeDocumentMoniker": "Hlavni_Program\\Cactus.cs",
+              "ToolTip": "C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\Hlavni_Program\\Cactus.cs",
+              "RelativeToolTip": "Hlavni_Program\\Cactus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:40:38.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\Hlavni_Program\\GameObject.cs",
+              "RelativeDocumentMoniker": "Hlavni_Program\\GameObject.cs",
+              "ToolTip": "C:\\Users\\Uzivatel\\Documents\\GitHub\\my-work\\Skola\\PRG\\OOP-C#\\Hlavni_Program\\GameObject.cs",
+              "RelativeToolTip": "Hlavni_Program\\GameObject.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:40:38.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
